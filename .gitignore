@@ -1,0 +1,20 @@
+# Build outputs
+build/
+.cxx/
+*.o
+*.a
+*.so
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# macOS
+.DS_Store
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
